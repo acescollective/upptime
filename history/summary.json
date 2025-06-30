@@ -4,19 +4,19 @@
     "url": "https://big3power.com",
     "icon": "https://icons.duckduckgo.com/ip3/big3power.com.ico",
     "slug": "big-3-power",
-    "status": "down",
-    "uptime": "95.91%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "95.91%",
-    "uptimeYear": "95.91%",
-    "time": 322,
-    "timeDay": 322,
-    "timeWeek": 322,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "status": "up",
+    "uptime": "94.42%",
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "94.42%",
+    "uptimeYear": "94.42%",
+    "time": 276,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-06-30": 20
+      "2025-06-30": 28
     }
   }
 ]
