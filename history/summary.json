@@ -4,7 +4,7 @@
     "url": "https://big3power.com",
     "icon": "https://icons.duckduckgo.com/ip3/big3power.com.ico",
     "slug": "big-3-power",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "93.70%",
     "uptimeWeek": "97.66%",
@@ -16,6 +16,7 @@
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2025-07-29": 0,
       "2025-07-28": 91,
       "2025-07-27": 44,
       "2025-07-25": 19,
